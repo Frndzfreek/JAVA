@@ -1,6 +1,6 @@
 package LOOPs;
 
-public class check {
+public class Reverse {
     public static void main(String[] args){
         //counting number
         // int num=34567;

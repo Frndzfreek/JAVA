@@ -1,5 +1,4 @@
 package LOOPs;
-
 import java.util.Scanner;
 
 class AscendingOrder {
@@ -25,7 +24,6 @@ class AscendingOrder {
             a = b;
             b = temp;
         }
-
         System.out.println("Ascending Order: " + a + ", " + b + ", " + c);
         scanner.close();
     }
