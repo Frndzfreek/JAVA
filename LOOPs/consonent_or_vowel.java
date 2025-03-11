@@ -2,7 +2,7 @@ package LOOPs;
 import java.util.Scanner;
 //CHECK AN INPUT IS A VOWEL OR A CONSONANT
 
-public class prob1 { 
+public class consonent_or_vowel { 
     public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in); 
         System.out.println("Enter a character: "); 
