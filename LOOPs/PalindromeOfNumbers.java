@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 
 class PalindromeOfNumbers {
     public static void main(String[] args){

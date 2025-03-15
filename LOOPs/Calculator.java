@@ -1,11 +1,12 @@
-package LOOPS;
+package LOOPs;
+
 import java.util.Scanner;
 
-public class W_calc {
+public class Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int choice;
-        //Using do-while to calculate
+
         do {
             // Display Menu
             System.out.println("\n===== Basic Calculator =====");

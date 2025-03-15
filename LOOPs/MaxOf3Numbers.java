@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 import java.util.Scanner;
 class MaxOf3Numbers {
     public static void main(String[] args){

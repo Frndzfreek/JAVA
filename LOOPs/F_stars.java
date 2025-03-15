@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 
 class F_stars {
     public static void main(String[] args){

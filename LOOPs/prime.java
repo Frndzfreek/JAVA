@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 
 class prime {
     public static void main(String[] args){
