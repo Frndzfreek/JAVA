@@ -20,7 +20,7 @@ class Car {
 }
 
 // Main class to test the Car class
-public class Main {
+public class Cars {
     public static void main(String[] args) {
         // Create objects of the Car class using the constructor
         Car car1 = new Car("Toyota", "Corolla", 2020);
