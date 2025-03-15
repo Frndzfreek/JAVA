@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 import java.util.Scanner;
 //CHECK AN INPUT IS A VOWEL OR A CONSONANT
 

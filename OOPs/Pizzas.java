@@ -1,4 +1,4 @@
-package Module3;
+package OOPs;
 import java.util.Scanner;
 class Pizza {
     double basePrice;
@@ -40,5 +40,6 @@ public class Pizzas {
         double discountedPrice = discountedPizza.calculatePrice();
         System.out.printf("Price without discount: Rs.%.2f\n", regularPrice);
         System.out.printf("Price with discount: Rs.%.2f\n", discountedPrice);
+        scanner.close();
     }
 }

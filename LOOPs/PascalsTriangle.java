@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 
 public class PascalsTriangle {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ARRAYS;
+package ARRAYs;
 
 public class Fibonacci2D {
     public static void main(String[] args) {

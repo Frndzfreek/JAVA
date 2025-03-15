@@ -1,4 +1,4 @@
-package LOOPS;
+package LOOPs;
 
 public class InvertedStar{
     public static void main(String[] args) {

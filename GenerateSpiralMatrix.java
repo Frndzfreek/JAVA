@@ -50,5 +50,6 @@ public class GenerateSpiralMatrix {
         int n = scanner.nextInt();
         int[][] spiralMatrix = Spiral(n);
         printMatrix(spiralMatrix);
+        scanner.close();
     }
 }
