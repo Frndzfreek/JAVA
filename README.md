@@ -57,9 +57,6 @@ java-basic-codes/
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a Pull Request.
 
-## License
-Specify the license for your project (e.g., MIT, Apache 2.0).
-
 ## Contact
 For any queries, reach out via GitHub or email.
 
