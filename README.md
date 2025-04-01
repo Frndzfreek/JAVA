@@ -8,6 +8,7 @@ This repo gives its discription as look out for the best, to be the best java co
 The repository includes the following categories of Java programs:
 - **OPERATORs** (Hello World, Variables, Data Types)
 - **LOOPs** (If-Else, Switch, Loops)
+- **RECURSIVEs**(Basic loops)
 - **METHODs** (Method Overloading, Recursion)
 - **OOPs (Object-Oriented Programming)** (Classes, Objects, Inheritance, Polymorphism)
 - **EXCEPTIONS (Exception Handling)** (Try-Catch, Custom Exceptions)
@@ -46,6 +47,7 @@ java-basic-codes/
 │   │-- OOPs
 │   │-- OPERATORs
 │   │-- REGEX
+│   │-- RECURSIVE
 │   │-- IMP OTHER CODES
 │-- README.md  # Project documentation
 ```
