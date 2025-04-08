@@ -19,8 +19,8 @@ class Main{
         int number = Integer.parseInt(str);
         System.out.println("Converted: " + number);
         
-        String str = "123";
-        int number = Integer.parseInt(str);
+        String str = "456";
+        int number = Integer.valueOf(str);
         System.out.println("Converted: " + number);
     }
 }
