@@ -1,18 +1,23 @@
 import java.util.Scanner;
-class Main{
-    public static void main(String[] args){
-        Scanner scan=new Scanner(System.in);
-        int rows=scan.nextInt();
-        for(int i=0;i<=rows;i++){
-            for (int k = 0; k<rows - i; k++) {
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("Enter number of rows: ");
+        int n = scanner.nextInt();
+
+        for (int i = 1; i <= n; i++) {
+            // Print spaces
+            for (int j = 1; j <= n - i; j++) {
                 System.out.print(" ");
             }
-            int num=1;
-            for(int j=0;j<=i;j++){
-                System.out.print(num+" ");
-                num=num*(i-j)/(j+1);
+            // Print numbers
+            for (int j = 1; j <= i; j++) {
+                System.out.print(j + " ");
             }
             System.out.println();
         }
+        
+        scanner.close();
     }
 }
