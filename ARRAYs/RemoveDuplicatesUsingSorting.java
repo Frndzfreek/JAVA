@@ -1,3 +1,5 @@
+package ARRAYs;
+
 import java.util.Arrays;
 public class RemoveDuplicatesUsingSorting {
     public static int[] removeDuplicates(int[] arr) {
@@ -22,5 +24,5 @@ public class RemoveDuplicatesUsingSorting {
         int[] uniqueArr = removeDuplicates(arr);
 
         System.out.println("Array without duplicates: " + Arrays.toString(uniqueArr));
-    }
+    }
 }
