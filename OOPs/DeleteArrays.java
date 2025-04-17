@@ -1,4 +1,4 @@
-package Module3;
+package OOPs;
 import java.util.Scanner;
 class DeleteArray {
     public int[] deleteElement(int[] array, int size, int element) {

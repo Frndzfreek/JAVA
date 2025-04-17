@@ -1,4 +1,4 @@
-package Module3;
+package OOPs;
 
 class addition {
 	static void add(int a,int b) {//static method
