@@ -32,5 +32,6 @@ class Main{
         }catch(ArithmeticException e){
             System.out.println(e.getMessage());
         }
+        scan.close();
     }
 }
