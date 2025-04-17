@@ -23,5 +23,6 @@ class Main{
             }
         }
         System.out.println(iden);
+        scan.close();
     }
 }

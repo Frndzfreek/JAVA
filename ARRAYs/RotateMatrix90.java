@@ -1,3 +1,5 @@
+package ARRAYs;
+
 import java.util.Scanner;
 
 public class RotateMatrix90{

@@ -1,4 +1,4 @@
-package ARRAYS;
+package ARRAYs;
 
 class Matrix{
     public int[][] addMatrices(int[][] matrix1, int[][] matrix2, int N) {

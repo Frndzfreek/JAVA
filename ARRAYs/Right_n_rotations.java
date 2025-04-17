@@ -1,6 +1,8 @@
+package ARRAYs;
+
 import java.util.Scanner;
 
-public class Main {
+public class Right_n_rotations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -20,6 +22,7 @@ public class Main {
         for (int num : arr) {
             System.out.print(num + " ");
         }
+        scanner.close();
     }
     public static void reverse(int[] arr, int start, int end) {
         while (start < end) {
@@ -29,5 +32,6 @@ public class Main {
             start++;
             end--;
         }
+    
     }
 }

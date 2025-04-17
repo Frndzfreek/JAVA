@@ -1,3 +1,5 @@
+package ARRAYs;
+
 import java.util.Scanner;
 class TargetSearch{
     public static void main(String[] args){
@@ -19,5 +21,6 @@ class TargetSearch{
         if(found!=true){
             System.out.println("Element not found");
         }
+        scan.close();
     }
 }
