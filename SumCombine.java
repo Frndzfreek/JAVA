@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class SumCombine {
     public static void findPairs(int[] arr, int target) {
         Map<Integer, Integer> map = new HashMap<>();
 

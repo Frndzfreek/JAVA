@@ -1,4 +1,4 @@
-public class Example1 {
+public class ArithmeticExceptions {
     public static void main(String[] args) {
         try {
             int result = 10 / 0;

@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Main{
+public class ZeroCount{
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
-        int n = scanner.nextInt();
+        int n = scan.nextInt();
 
         int count=0;
         
@@ -17,5 +17,7 @@ public class Main{
             n/=10;
         }
         System.out.println("Number of zeros in = " + count);
+
+        scan.close();
     }
 }

@@ -1,5 +1,3 @@
-package LOOPs;
-
 public class Reverse {
     public static void main(String[] args){
         //counting number

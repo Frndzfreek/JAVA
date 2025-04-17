@@ -1,4 +1,4 @@
-public class Main {
+public class NullPointerExceptions {
     public static void main(String[] args) {
         try {
             String text = null;
