@@ -1,5 +1,3 @@
-package REGEX;
-// You are using Java
 import java.util.Scanner;
 class StringProcessor {
     public String replaceExtraSpaces(String input) {
