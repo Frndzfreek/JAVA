@@ -22,5 +22,7 @@ class Main{
         double price=scan.nextDouble();
         Book book=new Book(title,author,price);
         book.display();
+        
+        scan.close();
     }
 }
