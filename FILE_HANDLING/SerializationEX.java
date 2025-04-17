@@ -11,7 +11,7 @@ class Person implements Serializable {
 	}
 }
 
-public class SerializationExample {
+public class SerializationEX {
 	public static void main(String[] args) {
 		try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("person.ser"))) {
 			Person p = new Person("Alice", 30);

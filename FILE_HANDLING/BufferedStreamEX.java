@@ -2,7 +2,7 @@ import java.io.*;
 
 //Buffered streams improve performance by reducing the number of direct I/O operations.
 
-public class BufferedStreamExample {
+public class BufferedStreamEX {
 	public static void main(String[] args) {
 		try (BufferedReader br = new BufferedReader(new FileReader("input.txt"))) {
 			String line;

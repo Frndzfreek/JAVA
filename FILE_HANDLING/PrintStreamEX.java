@@ -1,7 +1,7 @@
 import java.io.*;
 //Print streams enable formatted output.
 
-public class PrintStreamExample {
+public class PrintStreamEX {
 	public static void main(String[] args) {
 		try (PrintStream ps = new PrintStream("output.txt")) {
 			ps.println("Hello, PrintStream!");
